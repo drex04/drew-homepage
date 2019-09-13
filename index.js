@@ -2,7 +2,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-  res.send("Hello World, welcome to Drew's personal webpage! \r\n https://www.linkedin.com/in/drewnollsch \r\n https://github.com/drex04");
+  res.send("Welcome to Drew's personal webpage! https://github.com/drex04");        
 });
 
 const server = app.listen(8080, () => {
