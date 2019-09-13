@@ -1,0 +1,19 @@
+{
+  "name": "drew-homepage",
+  "version": "1.0.0",
+  "description": "My personal webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drex04/drew-homepage.git"
+  },
+  "author": "Drew Nollsch <drew.nollsch@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drex04/drew-homepage/issues"
+  },
+  "homepage": "https://github.com/drex04/drew-homepage#readme"
+}
